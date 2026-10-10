@@ -1,0 +1,3 @@
+Çalıştırılan Test Sayısı: 1
+Başarılı: 1
+Durum: PASSED

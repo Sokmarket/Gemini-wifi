@@ -1,0 +1,10 @@
+==================================
+   WIFI AUTOMATION PRO - METİN RAPORU
+==================================
+Tarih: 2026-10-10 22:47:37
+Durum: SUCCESS
+Toplam Ağ: 3
+----------------------------------
+1. SSID: FiberNet_Gezegen_5G | Güvenlik: WPA3 | BSSID: AC:DE:48:00:11:22
+2. SSID: Ev_Agi_2.4GHz | Güvenlik: WPA2 | BSSID: 00:11:22:33:44:55
+3. SSID: <Gizli Ağ / Hidden> | Güvenlik: WPA2 | BSSID: FF:EE:DD:CC:BB:AA
